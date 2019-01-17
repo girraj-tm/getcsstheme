@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">GetCssTheme</h3>
+<h3 align="center">Getcsstheme</h3>
 
 <p align="center">
   Sleek, intuitive, and powerful front-end framework for faster and easier web development.
