@@ -9,7 +9,7 @@
 <p align="center">
   Sleek, intuitive, and powerful front-end framework for faster and easier web development.
   <br>
-  <a href="https://getbootstrap.com/docs/4.2/"><strong>Explore Bootstrap docs »</strong></a>
+  <a href="https://getcsstheme.com/bootstrap/docs/0.1/"><strong>Explore getcsstheme docs »</strong></a>
   <br>
   <br>
   <a href="https://github.com/twbs/bootstrap/issues/new?template=bug.md">Report bug</a>
